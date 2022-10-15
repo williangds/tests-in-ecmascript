@@ -1,0 +1,27 @@
+body {
+    width: 940px;
+    margin: 0 auto;
+    background-color: #eeeeee;
+    font-size: 1.4em;
+}
+
+p {
+    margin: 0 0 0.5em;
+}
+
+input {
+    font-size: 1em;
+    padding: 0.25em;
+    margin: 0 0 0.5em;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    width: 20%;
+    font-size: 1em;
+    color: navy;
+    background-color: lightblue;
+    padding: 0.25em ;
+    margin: 0 0 0.5em;
+}
